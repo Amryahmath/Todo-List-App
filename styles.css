@@ -22,3 +22,26 @@ form {
     justify-content: center;
     align-items: center;
 }
+
+form input, 
+form button {
+    padding: 0.5rem;
+    padding-left: 1rem;
+    font-size: 1.8rem;
+    border: none;
+    background: white;
+    border-radius: 2rem;
+}
+
+form button {
+    color: rgb(255, 200, 0);
+    background: white;
+    cursor: pointer;
+    transition: all 0.3 ease;
+    margin-left: 0.5rem;
+}
+
+form button:hover {
+    color: white;
+    background: rgb(255, 200, 0);
+}
