@@ -96,7 +96,7 @@ form button:hover {
 .trash-btn {
     border-top-right-radius: 1.75rem;
     border-bottom-right-radius: 1.75rem;
-    background: rgb(171, 171, 171);
+    background:  black;
 }
 
 .todo-item {
