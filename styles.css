@@ -156,3 +156,39 @@ select {
     background: white;
     color: #F5B041;
 }
+
+.footer {
+    background-color: #f8f9fa; /* Light gray background */
+    padding: 20px 0;
+    border-top: 1px solid #e7e7e7;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  
+  .footer-text {
+    font-size: 14px;
+    color: #6c757d;
+    margin: 0;
+  }
+  
+  .footer-nav {
+    margin-top: 10px;
+  }
+  
+  .footer-nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #007bff; /* Link color */
+    font-size: 14px;
+    transition: color 0.3s;
+  }
+  
+  .footer-nav a:hover {
+    color: #0056b3; /* Darker shade on hover */
+  }
+  
